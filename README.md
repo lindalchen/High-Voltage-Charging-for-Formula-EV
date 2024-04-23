@@ -1,2 +1,2 @@
 # High-Voltage-Charging-for-Formula-EV
-Thesis project and documentation
+Senior thesis 2024 project.
