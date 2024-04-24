@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MK3 Charger.PcbDoc   3/10/2024  9:42:34 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : PWR to Bottom Layer 1
+ASCII RoundHoles File : MK3 Charger.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      30mil (0.762mm)                                           Round             10        PTH        7.90inch (200.54mm)
+T2      39mil (1.001mm)                                           Round             17        PTH        3.84inch (97.45mm)
+T3      43mil (1.1mm)                                             Round             8         PTH        5.68inch (144.25mm)
+T4      47mil (1.199mm)                                           Round             2         PTH        0.27inch (6.75mm)
+T5      52mil (1.311mm)                                           Round             12        PTH        1.90inch (48.25mm)
+T6      53mil (1.349mm)                                           Round             5         PTH        0.55inch (14.00mm)
+T7      55mil (1.4mm)                                             Round             28        PTH        16.21inch (411.72mm)
+T8      63mil (1.6mm)                                             Round             20        PTH        17.55inch (445.69mm)
+T9      78mil (1.981mm)                                           Round             30        PTH        13.85inch (351.70mm)
+T10     87mil (2.2mm)                                             Round             2         PTH        0.22inch (5.50mm)
+T11     122mil (3.109mm)                                          Round             2         PTH        0.70inch (17.78mm)
+T12     210mil (5.334mm)                                          Round             4         PTH        13.31inch (338.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              140
+
+Total Processing Time (hh:mm:ss) : 00:00:00
